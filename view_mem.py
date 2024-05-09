@@ -14,10 +14,7 @@ from screen import Fild
 from scan import RS232
 from statusbar import StatusBar
 from pdf import Pdf
-# from pathlib import Path
 
-# Width = 920
-# Height = 700
 Width = config.getint('Size', 'width')
 Height = config.getint('Size', 'height')
 # ctk.set_appearance_mode("System")  # Modes: "System" (standard), "Dark", "Light"
