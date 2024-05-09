@@ -3,7 +3,6 @@
 /Проекты
 /dist
 /dist_bso
-*.ico
 /ico
 /.venv
 /.vscode
